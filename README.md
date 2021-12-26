@@ -17,3 +17,4 @@
 * [MegSpot](https://github.com/MegEngine/MegSpot)：一款提供免费免登录、高效、专业、跨平台的图片&视频的对比的 PC 应用工具。
 * [BaseCls](https://github.com/megvii-research/basecls)：极其全面的分类模型库，提供了海量模型的训练代码和预训练权重，全部算法均可以快速部署到硬件上
 * [Swin Transformer](https://github.com/MegEngine/swin-transformer)：Swin Transformer 的实现，支持 DTR 功能减少显存占用量
+* [MegFLow-Cat_Feeder](https://github.com/rcxxx/MegFlow/tree/master/flow-python/examples/cat_feeders)：基于 `MegFlow` 框架的猫咪检测以及自动投喂的解决方案
