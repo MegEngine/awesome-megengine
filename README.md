@@ -19,6 +19,7 @@
 * [Swin Transformer](https://github.com/MegEngine/swin-transformer)：Swin Transformer 的实现，支持 DTR 功能减少显存占用量
 * [MegFLow-Cat_Feeder](https://github.com/rcxxx/MegFlow/tree/master/flow-python/examples/cat_feeders)：基于 `MegFlow` 框架的猫咪检测以及自动投喂的解决方案
 * [MegPeak](https://github.com/MegEngine/MegPeak)：处理器性能测试工具
+*  [Netron]( https://netron.app/) 已可视化 MegEngine TracedModule，欢迎使用 [模型示例文件](https://data.megengine.org.cn/models/traced_shufflenet.tm) 体验
 * MegEngine 原创论文复现：
     * [RepLKNet](https://github.com/MegEngine/RepLKNet)：[CVPR 2022] Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs
     * [GyroFlow](https://github.com/MegEngine/GyroFlow): [ICCV 2021] GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning
@@ -26,3 +27,7 @@
     * [FINet](https://github.com/MegEngine/FINet): [AAAI 2022] FINet: Dual Branches Feature Interaction for Partial-to-Partial Point Cloud Registration
     * [OMNet](https://github.com/MegEngine/OMNet): [ICCV 2021] OMNet: Learning Overlapping Mask for Partial-to-Partial Point Cloud Registration
     * [CREStereo](https://github.com/megvii-research/CREStereo): [CVPR 2022] Practical Stereo Matching via Cascaded Recurrent Network with Adaptive Correlation
+    * [D2C-SR](https://github.com/megvii-research/D2C-SR): [ECCV 2022] D2C-SR: A Divergence to Convergence Approach for Real-World Image Super-Resolution
+    * [FST-Matching](https://github.com/megvii-research/FST-Matching): [ECCV 2022] Explaining Deepfake Detection by Analysing Image Matching
+    * [zipfls](https://github.com/megvii-research/zipfls): [ECCV 2022] Zipf's LS: Efficient One Pass Self-distillation with Zipf's Label Smoothing
+    * [HDR-Transformer](https://github.com/megvii-research/HDR-Transformer): [ECCV 2022] Ghost-free High Dynamic Range Imaging with Context-aware Transformer
