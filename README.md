@@ -19,7 +19,8 @@
 * [Swin Transformer](https://github.com/MegEngine/swin-transformer)：Swin Transformer 的实现，支持 DTR 功能减少显存占用量
 * [MegFLow-Cat_Feeder](https://github.com/rcxxx/MegFlow/tree/master/flow-python/examples/cat_feeders)：基于 `MegFlow` 框架的猫咪检测以及自动投喂的解决方案
 * [MegPeak](https://github.com/MegEngine/MegPeak)：处理器性能测试工具
-*  [Netron]( https://netron.app/) 已可视化 MegEngine TracedModule，欢迎使用 [模型示例文件](https://data.megengine.org.cn/models/traced_shufflenet.tm) 体验
+* [Netron]( https://netron.app/) 已可视化 MegEngine TracedModule，欢迎使用 [模型示例文件](https://data.megengine.org.cn/models/traced_shufflenet.tm) 体验
+* [MegCC](https://github.com/MegEngine/MegCC)：一个运行时超轻量，高效，移植简单的深度学习模型编译器
 * MegEngine 原创论文复现：
     * [RepLKNet](https://github.com/MegEngine/RepLKNet)：[CVPR 2022] Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs
     * [GyroFlow](https://github.com/MegEngine/GyroFlow): [ICCV 2021] GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning
