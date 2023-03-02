@@ -21,8 +21,9 @@
 * [MegPeak](https://github.com/MegEngine/MegPeak)：处理器性能测试工具
 * [Netron]( https://netron.app/) 已可视化 MegEngine TracedModule，欢迎使用 [模型示例文件](https://data.megengine.org.cn/models/traced_shufflenet.tm) 体验
 * [MegCC](https://github.com/MegEngine/MegCC)：一个运行时超轻量，高效，移植简单的深度学习模型编译器
-* [BaseDet](https://github.com/megvii-research/basedet)：提供了一些经典的检测 SOTA 模型以及相关组件。
+* [BaseDet](https://github.com/megvii-research/basedet)：提供了一些经典的检测 SOTA 模型以及相关组件
     * [BaseDet 使用示例](https://studio.brainpp.com/project/28826?name=BaseDet%E4%BD%BF%E7%94%A8%E7%A4%BA%E4%BE%8B)
+* [mperf](https://github.com/MegEngine/mperf)：一个算子性能调优工具箱
 * MegEngine 原创论文复现：
     * [RepLKNet](https://github.com/MegEngine/RepLKNet)：[CVPR 2022] Scaling Up Your Kernels to 31x31: Revisiting Large Kernel Design in CNNs
     * [GyroFlow](https://github.com/MegEngine/GyroFlow): [ICCV 2021] GyroFlow: Gyroscope-Guided Unsupervised Optical Flow Learning
